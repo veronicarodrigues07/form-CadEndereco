@@ -30,9 +30,15 @@ const preencherFormulario = (endereco) =>{
     if(cepValido(cep.value)){
         const dados =await fetch(url); //aguardar
         const addres = await dados.json(); 
-        
+        //has0wnProperty retorna um booleano indicando se o objeto possui a propriedade especifica como uma propriedade definida no proprio objeto em questao
         if(addres.hasOwnProperty('erro')){
-            
+            alert('CEP não encontrado');
+        }else{
+            preencherFormulario(addres); 
         }
+    }else{
+        alert('CEP Incorreto');
     }
  }
+ //Adicona evento DOM ao input do CEP para executar função pesquisarCep
+ document.getElementById('cep').addEventListener('focusout',pesquisarCep);

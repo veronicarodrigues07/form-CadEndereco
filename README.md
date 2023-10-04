@@ -44,6 +44,5 @@ Ao acessar essa ferramenta o usuário sera direcionado para uma página, lá est
 ## Autores ✒️
 [veronica] https://github.com/veronicarodrigues07/Form-cadastro
 
-![image info](img/foto.png)
 
 

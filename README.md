@@ -28,6 +28,8 @@ Ao acessar essa ferramenta o usuário sera direcionado para uma página, lá est
   - `𝘯𝘶𝘮𝘦𝘳𝘰`: O usuario devera colocar o numero de sua residencia. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: 123
    - `𝑐𝑖𝑑𝑎𝑑𝑒​`: Aqui o úsuario devera colocar sua cidade. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Londrina
  - `𝘦𝘴𝘵𝘢𝘥𝘰`:  E para finaliza o usuario devera colocae seu estado. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Parana
+
+    ![image info](img/Gravando-2023-10-04-113117.gif)
  
  ### Tecnologias utilizadas ⌨️
  * HTML
@@ -35,5 +37,13 @@ Ao acessar essa ferramenta o usuário sera direcionado para uma página, lá est
  * GITHUB
  * STYLE
  * BOOTSTRAP
+
+## Fontes consultadas 🔍
+[bootstrap] https://getbootstrap.com/
+
+## Autores ✒️
+[veronica] https://github.com/veronicarodrigues07/Form-cadastro
+
+![image info](img/foto.png)
 
 

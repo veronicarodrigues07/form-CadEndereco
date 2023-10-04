@@ -31,17 +31,17 @@ Ao acessar essa ferramenta o usuário sera direcionado para uma página, lá est
 
     ![image info](img/Gravando-2023-10-04-113117.gif)
  
- ### Tecnologias utilizadas ⌨️
+ ### 𝐓𝐄𝐂𝐍𝐎𝐋𝐎𝐆𝐈𝐀𝐒 𝐔𝐓𝐈𝐋𝐈𝐙𝐀𝐃𝐀𝐒 ⌨️
  * HTML
  * JAVASCRIPT
  * GITHUB
  * STYLE
  * BOOTSTRAP
 
-## Fontes consultadas 🔍
+## 𝐅𝐎𝐍𝐓𝐄𝐒 𝐂𝐎𝐍𝐒𝐔𝐋𝐓𝐀𝐃𝐀𝐒 🔍
 [bootstrap] https://getbootstrap.com/
 
-## Autores ✒️
+## 𝐀𝐔𝐓𝐎𝐑𝐄𝐒 ✒️
 [veronica] https://github.com/veronicarodrigues07/Form-cadastro
 
 

@@ -3,30 +3,29 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title><Page Title></title>
+    <title>Cadastro de endereço</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
     <h1>Cadastro de endereço</h1>
     <form class="row g-3">
-        <div class="col-md-7">
-            <label for="inputZip" class="form-label">Cep</label>
+        <div class="col-md-6">
+            <label for="inputZip" class="form-label">CEP</label>
             <input type="text" class="form-control" id="cep">
-          </div>
-        <div class="col-6">
-          <label for="inputAddress" class="form-label">Endereço</label>
-          <input type="text" class="form-control" id="rua" placeholder="Rua joaquin nabuco">
         </div>
-        <div class="col-6">
-            <label for="inputAddress" class="form-label">Numero</label>
+        <br>
+        <div class="col-7">
+          <label for="inputAddress" class="form-label">Endereço</label>
+          <input type="text" class="form-control" id="rua" placeholder="Rua Nabuco">
+        </div>
+        <div class="col-3">
+            <label for="inputAddress" class="form-label">Número</label>
             <input type="text" class="form-control" id="numero">
           </div>
         <div class="col-12">
-          <label for="inputAddress2" class="form-label">bairro</label>
-          <input type="text" class="form-control" id="bairro" placeholder="Apartment, studio, or floor">
+          <label for="inputAddress2" class="form-label">Bairro</label>
+          <input type="text" class="form-control" id="bairro" placeholder="bairro">
         </div>
         <div class="col-md-6">
           <label for="inputCity" class="form-label">Cidade</label>
@@ -40,6 +39,6 @@
           <button type="submit" class="btn btn-primary">Cadastrar</button>
         </div>
       </form>
-    <script type="text/javascript" src="./controller.js"></script>
+      <script type="text/javascript" src="./controller.js"></script>  
 </body>
 </html>
